@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+
+
+header {
+    background-color: aquamarine;
+    padding: 50px;
+}
+
+header a {
+    text-decoration: none;
+    padding: 5px;
+    background-color: white;
+    font-size: 25px;
+    color: black;
+}
